@@ -1,2 +1,2 @@
-tasks:
-- command: bash ./crawler.sh
+#tasks:
+#- command: bash ./crawler.sh
