@@ -1,2 +1,3 @@
 #tasks:
 #- command: bash ./crawler.sh
+image: gitpod/workspace-full
